@@ -26,7 +26,7 @@ I'm a web developer with a passion for creating efficient and user-friendly web 
 
 I'm always open to collaborating on exciting projects or just having a chat about web development. Feel free to reach out!
 
-- [LinkedIn](#) *(Add your LinkedIn profile link)*
-- [Email](mailto:your-email@example.com) *(Replace with your email)*
+- [LinkedIn](#)
+- [Email](mailto:madyan.arashy5@smk.belajar.id)
 
 Thanks for stopping by!
