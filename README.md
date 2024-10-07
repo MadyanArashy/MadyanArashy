@@ -1,7 +1,7 @@
 # Hi there, I'm Madyan Arashy 👋
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Madyan Arashy" width="150px">
+  <img src="Self-Portrait.png" alt="Madyan Arashy" width="150px">
 </p>
 
 I'm a web developer with a passion for creating efficient and user-friendly web applications. I have experience in both front-end and back-end technologies, which allows me to build seamless and dynamic web experiences. 
