@@ -14,8 +14,8 @@ I'm a web developer with a passion for creating efficient and user-friendly web 
 
 # Github Statistic
 <p align="left">
-<a href="https://github.com/FadhlanPutra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadyanArashy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22/>
+<a href="https://github.com/MadyanArashy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadyanArashy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FadhlanPutra&layout=compact&langs_count=8&theme=algolia%22/>
 </a>
 </p>
